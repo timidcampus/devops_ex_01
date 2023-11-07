@@ -2,6 +2,7 @@
 
 # dependencies
 .terraform/
+/.terraform
 .terraform.lock.hcl
 /node_modules
 /.pnp
